@@ -1,3 +1,4 @@
+println("Frank sez hi")
 using BinDeps
 
 @BinDeps.setup
